@@ -19,7 +19,9 @@ Customers aged 35–44 showed the highest likelihood of buying bikes.
 
 Married individuals and those in higher income brackets were the primary drivers of bike sales.
 
-Preview:[Bike Dashboard](screenshots/bike_dashboard.png)
+Preview:
+![Bike Dashboard](screenshots/bike_Purchases_Demographics_dashboard.png)
+
 
 2. Customer Churn Analysis Dashboard
 Goal: To pinpoint the reasons behind customer attrition for a telecom company and help reduce churn.
@@ -32,7 +34,8 @@ The biggest churn factor was competitor device offers (accounting for 37% of chu
 
 Mid-aged customers with moderate usage were churning at the highest rate.
 
-Preview: [Churn Dashboard](screenshots/churn_dashboard.png)
+Preview:
+![Churn Dashboard](screenshots/Customer_Chrun_Analysis_Dashboard.png)
 
 - Skills & Tools
 These projects highlight my proficiency in:
