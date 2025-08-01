@@ -20,8 +20,7 @@ Customers aged 35–44 showed the highest likelihood of buying bikes.
 Married individuals and those in higher income brackets were the primary drivers of bike sales.
 
 Preview:
-![Bike Dashboard](screenshots/bike_Purchases_Demographics_dashboard.png)
-
+<img width="1763" height="741" alt="Image" src="https://github.com/user-attachments/assets/17b72cbd-e481-4499-82a5-bf35f6726de1" />
 
 2. Customer Churn Analysis Dashboard
 Goal: To pinpoint the reasons behind customer attrition for a telecom company and help reduce churn.
