@@ -35,7 +35,7 @@ The biggest churn factor was competitor device offers (accounting for 37% of chu
 Mid-aged customers with moderate usage were churning at the highest rate.
 
 Preview:
-![Churn Dashboard](screenshots/Customer_Chrun_Analysis_Dashboard.png)
+![Customer Churn Dashboard](‎Customer_Chrun_Analysis_Dashboard.png)
 
 - Skills & Tools
 These projects highlight my proficiency in:
